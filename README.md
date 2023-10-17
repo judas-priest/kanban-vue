@@ -1,4 +1,5 @@
 # kanban-vue
+![alt text](https://raw.githubusercontent.com/judas-priest/kanban-vue/main/screenshot.png?raw=true)
 A simple kanban system project.
 
 Implemented: transfer to columns, drag and drop
