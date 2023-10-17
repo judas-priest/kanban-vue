@@ -1,5 +1,7 @@
 # kanban-vue
+A simple kanban system project.
 
+Implemented: transfer to columns, drag and drop
 ## Project setup
 ```
 npm install
