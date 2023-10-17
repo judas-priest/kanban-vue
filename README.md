@@ -2,7 +2,7 @@
 ![alt text](https://raw.githubusercontent.com/judas-priest/kanban-vue/main/screenshot2.png?raw=true?time=2)
 A simple kanban system project.
 
-Implemented: transfer to columns, drag and drop
+Implemented: transfer to columns, drag and drop, sort
 ## Project setup
 ```
 npm install
