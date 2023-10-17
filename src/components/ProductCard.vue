@@ -11,8 +11,8 @@
     </div>
     </div>
     <div class="buttons col-6">
-    <button class="btn btn-warning col-12" >Изменить</button> 
-    <button class="btn btn-danger col-12" >Удалить</button>
+    <button class="btn btn-warning col-12" v-if="false">Изменить</button> 
+    <button class="btn btn-danger col-12" v-if="false">Удалить</button>
     <button class="btn btn-primary col-12" @click="$emit('toProgress', product)" v-show="product.status === null || product.status === 'products'">В работу</button>
     <button class="btn btn-secondary col-12" @click="$emit('toDone', product)" v-show="product.status === 'progressProducts'">Завершить</button>
     </div>
